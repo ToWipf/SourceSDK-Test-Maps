@@ -1,0 +1,1422 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8875 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 46 texinfos to 38
+Reduced 4 texdatas to 4 (86 bytes to 86)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+495 faces
+235083 square feet [33852008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 1248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0030 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 24/16384         288/196608   ( 0.1%) 
+brushsides             155/65536        1240/524288   ( 0.2%) 
+planes                 136/65536        2720/1310720  ( 0.2%) 
+vertexes               602/65536        7224/786432   ( 0.9%) 
+nodes                  199/65536        6368/2097152  ( 0.3%) 
+texinfos                38/12288        2736/884736   ( 0.3%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  495/65536       27720/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              108/65536        6048/3670016  ( 0.2%) 
+leaves                 202/65536        6464/2097152  ( 0.3%) 
+leaffaces              562/65536        1124/131072   ( 0.9%) 
+leafbrushes             57/65536         114/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             2680/512000      10720/2048000  ( 0.5%) 
+edges                 1377/256000       5508/1024000  ( 0.5%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             46/32768         460/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           567/65536        1134/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      932860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1988/393216   ( 0.5%) 
+LDR ambient table      202/65536         808/262144   ( 0.3%) 
+HDR ambient table      202/65536         808/262144   ( 0.3%) 
+LDR leaf ambient      1567/65536       43876/1835008  ( 2.4%) 
+HDR leaf ambient       202/65536        5656/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]        8875/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1258
+Writing d:\wipf\basteln\sdk_map\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11355 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 48
+Reduced 4 texdatas to 4 (86 bytes to 86)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+588 faces
+247286 square feet [35609256.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 1248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0033 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 30/16384         360/196608   ( 0.2%) 
+brushsides             190/65536        1520/524288   ( 0.3%) 
+planes                 146/65536        2920/1310720  ( 0.2%) 
+vertexes               713/65536        8556/786432   ( 1.1%) 
+nodes                  245/65536        7840/2097152  ( 0.4%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  588/65536       32928/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              134/65536        7504/3670016  ( 0.2%) 
+leaves                 248/65536        7936/2097152  ( 0.4%) 
+leaffaces              752/65536        1504/131072   ( 1.1%) 
+leafbrushes             81/65536         162/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3208/512000      12832/2048000  ( 0.6%) 
+edges                 1667/256000       6668/1024000  ( 0.7%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             56/32768         560/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           729/65536        1458/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1074960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1988/393216   ( 0.5%) 
+LDR ambient table      248/65536         992/262144   ( 0.4%) 
+HDR ambient table      248/65536         992/262144   ( 0.4%) 
+LDR leaf ambient      1809/65536       50652/1835008  ( 2.8%) 
+HDR leaf ambient       248/65536        6944/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       11355/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1496
+Writing d:\wipf\basteln\sdk_map\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+"materials/stein02.vtf": cached version doesn't exist
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_button (-1664.00 608.00 956.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7097 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 35
+Reduced 5 texdatas to 5 (97 bytes to 97)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+388 faces
+181969 square feet [26203570.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 1248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 18/16384         216/196608   ( 0.1%) 
+brushsides             113/65536         904/524288   ( 0.2%) 
+planes                 138/65536        2760/1310720  ( 0.2%) 
+vertexes               471/65536        5652/786432   ( 0.7%) 
+nodes                  173/65536        5536/2097152  ( 0.3%) 
+texinfos                35/12288        2520/884736   ( 0.3%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  388/65536       21728/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                 176/65536        5632/2097152  ( 0.3%) 
+leaffaces              495/65536         990/131072   ( 0.8%) 
+leafbrushes             43/65536          86/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             2094/512000       8376/2048000  ( 0.4%) 
+edges                 1078/256000       4312/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/32768         350/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           438/65536         876/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      933224/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1593/393216   ( 0.4%) 
+LDR ambient table      176/65536         704/262144   ( 0.3%) 
+HDR ambient table      176/65536         704/262144   ( 0.3%) 
+LDR leaf ambient      1436/65536       40208/1835008  ( 2.2%) 
+HDR leaf ambient       176/65536        4928/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]        7097/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 966
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+"materials/stein02.vtf": cached version doesn't exist
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_button (-1664.00 608.00 956.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (7097 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 35
+Reduced 5 texdatas to 5 (68 bytes to 68)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+388 faces
+181969 square feet [26203570.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 1248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 18/16384         216/196608   ( 0.1%) 
+brushsides             113/65536         904/524288   ( 0.2%) 
+planes                 138/65536        2760/1310720  ( 0.2%) 
+vertexes               471/65536        5652/786432   ( 0.7%) 
+nodes                  173/65536        5536/2097152  ( 0.3%) 
+texinfos                35/12288        2520/884736   ( 0.3%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  388/65536       21728/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               88/65536        4928/3670016  ( 0.1%) 
+leaves                 176/65536        5632/2097152  ( 0.3%) 
+leaffaces              495/65536         990/131072   ( 0.8%) 
+leafbrushes             43/65536          86/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             2094/512000       8376/2048000  ( 0.4%) 
+edges                 1078/256000       4312/1024000  ( 0.4%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/32768         350/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           438/65536         876/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      673472/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1593/393216   ( 0.4%) 
+LDR ambient table      176/65536         704/262144   ( 0.3%) 
+HDR ambient table      176/65536         704/262144   ( 0.3%) 
+LDR leaf ambient      1441/65536       40348/1835008  ( 2.2%) 
+HDR leaf ambient       176/65536        4928/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]        7097/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 966
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+material "my/stein02" not found.
+Material not found!: MY/STEIN02
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_button (-1664.00 608.00 956.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 10240.0 568.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 9728.0 568.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4096.0 8704.0 568.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 10240.0 568.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 9728.0 568.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 10240.0 568.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 8704.0 560.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 8704.0 1192.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12267 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 72 texinfos to 61
+Reduced 5 texdatas to 5 (66 bytes to 66)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+1 second elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+632 faces
+254598 square feet [36662112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 1248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0036 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 32/16384         384/196608   ( 0.2%) 
+brushsides             204/65536        1632/524288   ( 0.3%) 
+planes                 200/65536        4000/1310720  ( 0.3%) 
+vertexes               780/65536        9360/786432   ( 1.2%) 
+nodes                  305/65536        9760/2097152  ( 0.5%) 
+texinfos                61/12288        4392/884736   ( 0.5%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  632/65536       35392/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              152/65536        8512/3670016  ( 0.2%) 
+leaves                 308/65536        9856/2097152  ( 0.5%) 
+leaffaces              785/65536        1570/131072   ( 1.2%) 
+leafbrushes             70/65536         140/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3488/512000      13952/2048000  ( 0.7%) 
+edges                 1805/256000       7220/1024000  ( 0.7%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           846/65536        1692/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      914516/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        1991/393216   ( 0.5%) 
+LDR ambient table      308/65536        1232/262144   ( 0.5%) 
+HDR ambient table      308/65536        1232/262144   ( 0.5%) 
+LDR leaf ambient      2172/65536       60816/1835008  ( 3.3%) 
+HDR leaf ambient       308/65536        8624/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       12267/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1616
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19757 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 67
+Reduced 4 texdatas to 4 (55 bytes to 55)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+1077 faces
+455047 square feet [65526832.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 1248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 52/16384         624/196608   ( 0.3%) 
+brushsides             337/65536        2696/524288   ( 0.5%) 
+planes                 166/65536        3320/1310720  ( 0.3%) 
+vertexes              1319/65536       15828/786432   ( 2.0%) 
+nodes                  334/65536       10688/2097152  ( 0.5%) 
+texinfos                67/12288        4824/884736   ( 0.5%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1077/65536       60312/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              210/65536       11760/3670016  ( 0.3%) 
+leaves                 337/65536       10784/2097152  ( 0.5%) 
+leaffaces             1274/65536        2548/131072   ( 1.9%) 
+leafbrushes            120/65536         240/131072   ( 0.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5976/512000      23904/2048000  ( 1.2%) 
+edges                 3143/256000      12572/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1896/65536        3792/131072   ( 2.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1652124/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        3181/393216   ( 0.8%) 
+LDR ambient table      337/65536        1348/262144   ( 0.5%) 
+HDR ambient table      337/65536        1348/262144   ( 0.5%) 
+LDR leaf ambient       719/65536       20132/1835008  ( 1.1%) 
+HDR leaf ambient       337/65536        9436/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       19757/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2982
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19757 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 67
+Reduced 4 texdatas to 4 (55 bytes to 55)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+1077 faces
+455047 square feet [65526832.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 3248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 52/16384         624/196608   ( 0.3%) 
+brushsides             337/65536        2696/524288   ( 0.5%) 
+planes                 166/65536        3320/1310720  ( 0.3%) 
+vertexes              1319/65536       15828/786432   ( 2.0%) 
+nodes                  334/65536       10688/2097152  ( 0.5%) 
+texinfos                67/12288        4824/884736   ( 0.5%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1077/65536       60312/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              210/65536       11760/3670016  ( 0.3%) 
+leaves                 337/65536       10784/2097152  ( 0.5%) 
+leaffaces             1274/65536        2548/131072   ( 1.9%) 
+leafbrushes            120/65536         240/131072   ( 0.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5976/512000      23904/2048000  ( 1.2%) 
+edges                 3143/256000      12572/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1896/65536        3792/131072   ( 2.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1652124/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        3181/393216   ( 0.8%) 
+LDR ambient table      337/65536        1348/262144   ( 0.5%) 
+HDR ambient table      337/65536        1348/262144   ( 0.5%) 
+LDR leaf ambient       719/65536       20132/1835008  ( 1.1%) 
+HDR leaf ambient       337/65536        9436/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       19757/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2982
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19757 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 67
+Reduced 4 texdatas to 4 (55 bytes to 55)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+1077 faces
+455047 square feet [65526832.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 3248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 52/16384         624/196608   ( 0.3%) 
+brushsides             337/65536        2696/524288   ( 0.5%) 
+planes                 166/65536        3320/1310720  ( 0.3%) 
+vertexes              1319/65536       15828/786432   ( 2.0%) 
+nodes                  334/65536       10688/2097152  ( 0.5%) 
+texinfos                67/12288        4824/884736   ( 0.5%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1077/65536       60312/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              210/65536       11760/3670016  ( 0.3%) 
+leaves                 337/65536       10784/2097152  ( 0.5%) 
+leaffaces             1274/65536        2548/131072   ( 1.9%) 
+leafbrushes            120/65536         240/131072   ( 0.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             5976/512000      23904/2048000  ( 1.2%) 
+edges                 3143/256000      12572/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1896/65536        3792/131072   ( 2.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803064/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        3580/393216   ( 0.9%) 
+LDR ambient table      337/65536        1348/262144   ( 0.5%) 
+HDR ambient table      337/65536        1348/262144   ( 0.5%) 
+LDR leaf ambient       719/65536       20132/1835008  ( 1.1%) 
+HDR leaf ambient       337/65536        9436/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       19757/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2982
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20702 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 99 texinfos to 73
+Reduced 5 texdatas to 5 (65 bytes to 65)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+1091 faces
+455134 square feet [65539376.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 3248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 54/16384         648/196608   ( 0.3%) 
+brushsides             349/65536        2792/524288   ( 0.5%) 
+planes                 184/65536        3680/1310720  ( 0.3%) 
+vertexes              1339/65536       16068/786432   ( 2.0%) 
+nodes                  345/65536       11040/2097152  ( 0.5%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1091/65536       61096/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              221/65536       12376/3670016  ( 0.3%) 
+leaves                 349/65536       11168/2097152  ( 0.5%) 
+leaffaces             1310/65536        2620/131072   ( 2.0%) 
+leafbrushes            122/65536         244/131072   ( 0.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             6084/512000      24336/2048000  ( 1.2%) 
+edges                 3199/256000      12796/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            147/32768        1470/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1914/65536        3828/131072   ( 2.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803352/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        4042/393216   ( 1.0%) 
+LDR ambient table      349/65536        1396/262144   ( 0.5%) 
+HDR ambient table      349/65536        1396/262144   ( 0.5%) 
+LDR leaf ambient       729/65536       20412/1835008  ( 1.1%) 
+HDR leaf ambient       349/65536        9772/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       20702/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3018
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20307 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 96 texinfos to 70
+Reduced 5 texdatas to 5 (68 bytes to 68)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+1083 faces
+455106 square feet [65535280.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 3248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 53/16384         636/196608   ( 0.3%) 
+brushsides             343/65536        2744/524288   ( 0.5%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              1327/65536       15924/786432   ( 2.0%) 
+nodes                  340/65536       10880/2097152  ( 0.5%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1083/65536       60648/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              216/65536       12096/3670016  ( 0.3%) 
+leaves                 344/65536       11008/2097152  ( 0.5%) 
+leaffaces             1280/65536        2560/131072   ( 2.0%) 
+leafbrushes            121/65536         242/131072   ( 0.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             6024/512000      24096/2048000  ( 1.2%) 
+edges                 3167/256000      12668/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1896/65536        3792/131072   ( 2.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803568/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        4142/393216   ( 1.1%) 
+LDR ambient table      344/65536        1376/262144   ( 0.5%) 
+HDR ambient table      344/65536        1376/262144   ( 0.5%) 
+LDR leaf ambient       725/65536       20300/1835008  ( 1.1%) 
+HDR leaf ambient       344/65536        9632/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       20307/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2994
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20307 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 96 texinfos to 70
+Reduced 5 texdatas to 5 (65 bytes to 65)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+1083 faces
+455106 square feet [65535280.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 3248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 53/16384         636/196608   ( 0.3%) 
+brushsides             343/65536        2744/524288   ( 0.5%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              1327/65536       15924/786432   ( 2.0%) 
+nodes                  340/65536       10880/2097152  ( 0.5%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1083/65536       60648/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              216/65536       12096/3670016  ( 0.3%) 
+leaves                 344/65536       11008/2097152  ( 0.5%) 
+leaffaces             1280/65536        2560/131072   ( 2.0%) 
+leafbrushes            121/65536         242/131072   ( 0.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             6024/512000      24096/2048000  ( 1.2%) 
+edges                 3167/256000      12668/1024000  ( 1.2%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            146/32768        1460/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1896/65536        3792/131072   ( 2.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1803448/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        4042/393216   ( 1.0%) 
+LDR ambient table      344/65536        1376/262144   ( 0.5%) 
+HDR ambient table      344/65536        1376/262144   ( 0.5%) 
+LDR leaf ambient       725/65536       20300/1835008  ( 1.1%) 
+HDR leaf ambient       344/65536        9632/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       20307/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2994
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (-1216.00 896.00 393.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23187 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 110 texinfos to 82
+Reduced 5 texdatas to 5 (65 bytes to 65)
+Writing D:\Wipf\Basteln\SDK_MAP\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+reading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+LoadPortals: couldn't read d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+PREP OK
+No vis information, direct lighting only.
+1135 faces
+455355 square feet [65571152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+light has _fifty_percent_distance of 3248.000000 but _zero_percent_distance of 0.000000
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0073 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 61/16384         732/196608   ( 0.4%) 
+brushsides             391/65536        3128/524288   ( 0.6%) 
+planes                 202/65536        4040/1310720  ( 0.3%) 
+vertexes              1400/65536       16800/786432   ( 2.1%) 
+nodes                  371/65536       11872/2097152  ( 0.6%) 
+texinfos                82/12288        5904/884736   ( 0.7%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1135/65536       63560/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              248/65536       13888/3670016  ( 0.4%) 
+leaves                 375/65536       12000/2097152  ( 0.6%) 
+leaffaces             1340/65536        2680/131072   ( 2.0%) 
+leafbrushes            132/65536         264/131072   ( 0.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges             6402/512000      25608/2048000  ( 1.3%) 
+edges                 3380/256000      13520/1024000  ( 1.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            150/32768        1500/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1965/65536        3930/131072   ( 3.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1808392/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        4042/393216   ( 1.0%) 
+LDR ambient table      375/65536        1500/262144   ( 0.6%) 
+HDR ambient table      375/65536        1500/262144   ( 0.6%) 
+LDR leaf ambient       745/65536       20860/1835008  ( 1.1%) 
+HDR leaf ambient       375/65536       10500/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105679/0        ( 0.0%) 
+physics               [variable]       23187/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3140
+Writing d:\wipf\basteln\sdk_map\gm_darktower\gm_darktower.bsp
+0 seconds elapsed
